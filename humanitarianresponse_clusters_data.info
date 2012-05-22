@@ -1,0 +1,8 @@
+name = HumanitarianResponse Clusters Data
+description = Terms for the clusters taxonomy
+core = 7.x
+package = Humanitarianresponse data
+dependencies[] = humanitarianresponse_clusters
+dependencies[] = uuid
+features[features_api][] = api:1
+features[uuid_entities][] = clusters
