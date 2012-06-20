@@ -17,6 +17,15 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'field_cluster_co_partners' => array(),
     'field_cluster_coordination_name' => array(),
     'field_cluster_coordinator_email' => array(),
@@ -35,6 +44,14 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Camp Coordination / Management',
+    'name_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Camp Coordination / Management',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'clusters/camp-coordination-management',
       'pathauto' => FALSE,
@@ -78,6 +95,15 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'field_cluster_co_partners' => array(),
     'field_cluster_coordination_name' => array(),
     'field_cluster_coordinator_email' => array(),
@@ -96,6 +122,14 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Early Recovery',
+    'name_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Early Recovery',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'clusters/early-recovery',
       'pathauto' => FALSE,
@@ -139,6 +173,15 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'field_cluster_co_partners' => array(),
     'field_cluster_coordination_name' => array(),
     'field_cluster_coordinator_email' => array(),
@@ -157,6 +200,14 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Education',
+    'name_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Education',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'clusters/education',
       'pathauto' => FALSE,
@@ -200,6 +251,15 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'field_cluster_co_partners' => array(),
     'field_cluster_coordination_name' => array(),
     'field_cluster_coordinator_email' => array(),
@@ -218,6 +278,14 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Emergency Shelter and NFI',
+    'name_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Emergency Shelter and NFI',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'clusters/emergency-shelter-and-nfi',
       'pathauto' => FALSE,
@@ -261,6 +329,15 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'field_cluster_co_partners' => array(),
     'field_cluster_coordination_name' => array(),
     'field_cluster_coordinator_email' => array(),
@@ -279,6 +356,14 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Emergency Telecommunications',
+    'name_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Emergency Telecommunications',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'clusters/emergency-telecommunications',
       'pathauto' => FALSE,
@@ -322,6 +407,15 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'field_cluster_co_partners' => array(),
     'field_cluster_coordination_name' => array(),
     'field_cluster_coordinator_email' => array(),
@@ -340,6 +434,14 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Food Security',
+    'name_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Food Security',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'clusters/food-security',
       'pathauto' => FALSE,
@@ -383,6 +485,15 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'field_cluster_co_partners' => array(),
     'field_cluster_coordination_name' => array(),
     'field_cluster_coordinator_email' => array(),
@@ -401,6 +512,14 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Health',
+    'name_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Health',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'clusters/health',
       'pathauto' => FALSE,
@@ -444,6 +563,15 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'field_cluster_co_partners' => array(),
     'field_cluster_coordination_name' => array(),
     'field_cluster_coordinator_email' => array(),
@@ -462,6 +590,14 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Information Management',
+    'name_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Information Management',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'clusters/information-management',
       'pathauto' => FALSE,
@@ -505,6 +641,15 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'field_cluster_co_partners' => array(),
     'field_cluster_coordination_name' => array(),
     'field_cluster_coordinator_email' => array(),
@@ -523,6 +668,14 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Logistics',
+    'name_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Logistics',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'clusters/logistics',
       'pathauto' => FALSE,
@@ -566,6 +719,15 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'field_cluster_co_partners' => array(),
     'field_cluster_coordination_name' => array(),
     'field_cluster_coordinator_email' => array(),
@@ -584,6 +746,14 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Nutrition',
+    'name_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Nutrition',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'clusters/nutrition',
       'pathauto' => FALSE,
@@ -627,6 +797,15 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'field_cluster_co_partners' => array(),
     'field_cluster_coordination_name' => array(),
     'field_cluster_coordinator_email' => array(),
@@ -645,6 +824,14 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Protection',
+    'name_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Protection',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'clusters/protection',
       'pathauto' => FALSE,
@@ -688,6 +875,15 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'field_cluster_co_partners' => array(),
     'field_cluster_coordination_name' => array(),
     'field_cluster_coordinator_email' => array(),
@@ -706,6 +902,14 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Water Sanitation Hygiene',
+    'name_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Water Sanitation Hygiene',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'clusters/water-sanitation-hygiene',
       'pathauto' => FALSE,
