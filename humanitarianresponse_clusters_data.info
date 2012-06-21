@@ -4,7 +4,6 @@ core = 7.x
 package = Humanitarianresponse data
 php = 5.2.4
 dependencies[] = humanitarianresponse_clusters
-dependencies[] = i18n_taxonomy
 dependencies[] = uuid
 features[features_api][] = api:1
 features[uuid_entities][] = clusters
