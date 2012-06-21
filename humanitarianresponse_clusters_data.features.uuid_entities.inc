@@ -51,6 +51,18 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
           'value' => 'Camp Coordination / Management',
         ),
       ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Camp Coordination / Management',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Coordination / Gestion de Camp',
+        ),
+      ),
     ),
     'path' => array(
       'alias' => 'clusters/camp-coordination-management',
@@ -129,6 +141,18 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
           'value' => 'Early Recovery',
         ),
       ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Early Recovery',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Récupération rapide',
+        ),
+      ),
     ),
     'path' => array(
       'alias' => 'clusters/early-recovery',
@@ -202,6 +226,18 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
     'name' => 'Education',
     'name_field' => array(
       'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Education',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Education',
+        ),
+      ),
+      'fr' => array(
         0 => array(
           'format' => NULL,
           'value' => 'Education',
@@ -283,6 +319,18 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Emergency Shelter and NFI',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Emergency Shelter and NFI',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Abris d\'Urgence',
         ),
       ),
     ),
