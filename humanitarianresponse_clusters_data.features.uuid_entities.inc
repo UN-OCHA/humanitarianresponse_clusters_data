@@ -95,6 +95,23 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
         'type' => 'rel',
       ),
     ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+      ),
+    ),
     'uuid' => '74199c79-70ed-f884-d555-8254d27bea01',
     'vocabulary_machine_name' => 'clusters',
     'weight' => '0',
@@ -182,6 +199,23 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
           0 => 'skos:broader',
         ),
         'type' => 'rel',
+      ),
+    ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '3587f445-38c0-7c94-e54b-ce7cf1a80dab',
@@ -273,6 +307,23 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
         'type' => 'rel',
       ),
     ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+      ),
+    ),
     'uuid' => 'f4f4d082-55b1-6d44-f1a3-180c06f9ebe4',
     'vocabulary_machine_name' => 'clusters',
     'weight' => '0',
@@ -360,6 +411,23 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
           0 => 'skos:broader',
         ),
         'type' => 'rel',
+      ),
+    ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'b3fe12df-d846-e024-2586-72690c26c607',
@@ -451,6 +519,23 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
         'type' => 'rel',
       ),
     ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+      ),
+    ),
     'uuid' => 'd1673192-586b-6a24-056d-1779c4857d25',
     'vocabulary_machine_name' => 'clusters',
     'weight' => '0',
@@ -538,6 +623,23 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
           0 => 'skos:broader',
         ),
         'type' => 'rel',
+      ),
+    ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'dcf0529f-f7d7-f0d4-d10c-0d110debe8c3',
@@ -629,6 +731,23 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
         'type' => 'rel',
       ),
     ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+      ),
+    ),
     'uuid' => '33da548d-8d27-22c4-6954-a3c2a233e7de',
     'vocabulary_machine_name' => 'clusters',
     'weight' => '0',
@@ -716,6 +835,23 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
           0 => 'skos:broader',
         ),
         'type' => 'rel',
+      ),
+    ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '56c227fe-47a4-3a44-195e-f3ae10fbc2eb',
@@ -807,6 +943,23 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
         'type' => 'rel',
       ),
     ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+      ),
+    ),
     'uuid' => '7563ee82-d03a-4f84-6d2e-5c083be5c0a4',
     'vocabulary_machine_name' => 'clusters',
     'weight' => '0',
@@ -894,6 +1047,23 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
           0 => 'skos:broader',
         ),
         'type' => 'rel',
+      ),
+    ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '13ce935d-af1f-b464-2165-f485bdee0851',
@@ -985,6 +1155,23 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
         'type' => 'rel',
       ),
     ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+      ),
+    ),
     'uuid' => '2cbc351b-b3d1-6724-6d02-c1419d6594b1',
     'vocabulary_machine_name' => 'clusters',
     'weight' => '0',
@@ -1072,6 +1259,23 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
           0 => 'skos:broader',
         ),
         'type' => 'rel',
+      ),
+    ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'd5195e8c-e724-af64-35a4-413a412e04f7',
