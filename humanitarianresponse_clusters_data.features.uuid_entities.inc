@@ -47,10 +47,6 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
         ),
       ),
     ),
-    'path' => array(
-      'alias' => 'clusters/camp-coordination-management',
-      'pathauto' => FALSE,
-    ),
     'rdf_mapping' => array(
       'rdftype' => array(
         0 => 'skos:Concept',
@@ -136,10 +132,6 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
           'value' => 'Récupération rapide',
         ),
       ),
-    ),
-    'path' => array(
-      'alias' => 'clusters/early-recovery',
-      'pathauto' => FALSE,
     ),
     'rdf_mapping' => array(
       'rdftype' => array(
@@ -227,10 +219,6 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
         ),
       ),
     ),
-    'path' => array(
-      'alias' => 'clusters/education',
-      'pathauto' => FALSE,
-    ),
     'rdf_mapping' => array(
       'rdftype' => array(
         0 => 'skos:Concept',
@@ -316,10 +304,6 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
           'value' => 'Abris d\'Urgence',
         ),
       ),
-    ),
-    'path' => array(
-      'alias' => 'clusters/emergency-shelter-and-nfi',
-      'pathauto' => FALSE,
     ),
     'rdf_mapping' => array(
       'rdftype' => array(
@@ -407,10 +391,6 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
         ),
       ),
     ),
-    'path' => array(
-      'alias' => 'clusters/emergency-telecommunications',
-      'pathauto' => FALSE,
-    ),
     'rdf_mapping' => array(
       'rdftype' => array(
         0 => 'skos:Concept',
@@ -496,10 +476,6 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
           'value' => 'Sécurité Alimentaire',
         ),
       ),
-    ),
-    'path' => array(
-      'alias' => 'clusters/food-security',
-      'pathauto' => FALSE,
     ),
     'rdf_mapping' => array(
       'rdftype' => array(
@@ -587,10 +563,6 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
         ),
       ),
     ),
-    'path' => array(
-      'alias' => 'clusters/health',
-      'pathauto' => FALSE,
-    ),
     'rdf_mapping' => array(
       'rdftype' => array(
         0 => 'skos:Concept',
@@ -676,10 +648,6 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
           'value' => 'Logistique',
         ),
       ),
-    ),
-    'path' => array(
-      'alias' => 'clusters/logistics',
-      'pathauto' => FALSE,
     ),
     'rdf_mapping' => array(
       'rdftype' => array(
@@ -767,10 +735,6 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
         ),
       ),
     ),
-    'path' => array(
-      'alias' => 'clusters/nutrition',
-      'pathauto' => FALSE,
-    ),
     'rdf_mapping' => array(
       'rdftype' => array(
         0 => 'skos:Concept',
@@ -857,10 +821,6 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
         ),
       ),
     ),
-    'path' => array(
-      'alias' => 'clusters/protection',
-      'pathauto' => FALSE,
-    ),
     'rdf_mapping' => array(
       'rdftype' => array(
         0 => 'skos:Concept',
@@ -946,10 +906,6 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
           'value' => 'Eau, Assainissement et Hygiène',
         ),
       ),
-    ),
-    'path' => array(
-      'alias' => 'clusters/water-sanitation-hygiene',
-      'pathauto' => FALSE,
     ),
     'rdf_mapping' => array(
       'rdftype' => array(
