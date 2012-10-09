@@ -390,6 +390,12 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
           'value' => 'Télécommunications d\'Urgence',
         ),
       ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Telecomunicaciones en Emergencias',
+        ),
+      ),
     ),
     'rdf_mapping' => array(
       'rdftype' => array(
@@ -430,6 +436,12 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
         ),
         'fr' => array(
           'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'es' => array(
+          'language' => 'es',
           'source' => 'en',
           'status' => '1',
           'translate' => '0',
@@ -476,6 +488,12 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
           'value' => 'Sécurité Alimentaire',
         ),
       ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Seguridad Alimentaria',
+        ),
+      ),
     ),
     'rdf_mapping' => array(
       'rdftype' => array(
@@ -516,6 +534,12 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
         ),
         'fr' => array(
           'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'es' => array(
+          'language' => 'es',
           'source' => 'en',
           'status' => '1',
           'translate' => '0',
@@ -562,6 +586,12 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
           'value' => 'Santé',
         ),
       ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Salud',
+        ),
+      ),
     ),
     'rdf_mapping' => array(
       'rdftype' => array(
@@ -602,6 +632,12 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
         ),
         'fr' => array(
           'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'es' => array(
+          'language' => 'es',
           'source' => 'en',
           'status' => '1',
           'translate' => '0',
@@ -648,6 +684,12 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
           'value' => 'Logistique',
         ),
       ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Logística',
+        ),
+      ),
     ),
     'rdf_mapping' => array(
       'rdftype' => array(
@@ -688,6 +730,12 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
         ),
         'fr' => array(
           'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'es' => array(
+          'language' => 'es',
           'source' => 'en',
           'status' => '1',
           'translate' => '0',
@@ -734,6 +782,12 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
           'value' => 'Nutrition',
         ),
       ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Nutrición',
+        ),
+      ),
     ),
     'rdf_mapping' => array(
       'rdftype' => array(
@@ -774,6 +828,12 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
         ),
         'fr' => array(
           'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'es' => array(
+          'language' => 'es',
           'source' => 'en',
           'status' => '1',
           'translate' => '0',
@@ -820,6 +880,12 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
           'value' => 'Protection',
         ),
       ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Protección',
+        ),
+      ),
     ),
     'rdf_mapping' => array(
       'rdftype' => array(
@@ -860,6 +926,12 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
         ),
         'fr' => array(
           'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'es' => array(
+          'language' => 'es',
           'source' => 'en',
           'status' => '1',
           'translate' => '0',
@@ -906,6 +978,12 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
           'value' => 'Eau, Assainissement et Hygiène',
         ),
       ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Agua Saneamiento e Higiene',
+        ),
+      ),
     ),
     'rdf_mapping' => array(
       'rdftype' => array(
@@ -946,6 +1024,12 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
         ),
         'fr' => array(
           'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'es' => array(
+          'language' => 'es',
           'source' => 'en',
           'status' => '1',
           'translate' => '0',
