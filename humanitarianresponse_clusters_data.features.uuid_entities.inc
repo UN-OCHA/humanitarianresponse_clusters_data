@@ -945,6 +945,410 @@ function humanitarianresponse_clusters_data_uuid_default_entities() {
   $entities['clusters'][] = (object) array(
     '__metadata' => array(
       'type' => 'taxonomy_term',
+      'uri' => 'taxonomy_term/646c7ac3-4b96-46bb-912a-4b938b8eef5d',
+      'cause' => FALSE,
+    ),
+    'field_cluster_prefix' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'CP',
+        ),
+      ),
+    ),
+    'format' => 'plain_text',
+    'name' => 'Child Protection',
+    'name_original' => 'Child Protection',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Child Protection',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Child Protection',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Protection de l\'Enfance',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Protección de la Infancia',
+        ),
+      ),
+    ),
+    'parent' => array(
+      0 => '2cbc351b-b3d1-6724-6d02-c1419d6594b1',
+    ),
+    'rdf_mapping' => array(
+      'rdftype' => array(
+        0 => 'skos:Concept',
+      ),
+      'name' => array(
+        'predicates' => array(
+          0 => 'rdfs:label',
+          1 => 'skos:prefLabel',
+        ),
+      ),
+      'description' => array(
+        'predicates' => array(
+          0 => 'skos:definition',
+        ),
+      ),
+      'vid' => array(
+        'predicates' => array(
+          0 => 'skos:inScheme',
+        ),
+        'type' => 'rel',
+      ),
+      'parent' => array(
+        'predicates' => array(
+          0 => 'skos:broader',
+        ),
+        'type' => 'rel',
+      ),
+    ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+      ),
+    ),
+    'uuid' => '646c7ac3-4b96-46bb-912a-4b938b8eef5d',
+    'vocabulary_machine_name' => 'clusters',
+    'weight' => '0',
+  );
+  $entities['clusters'][] = (object) array(
+    '__metadata' => array(
+      'type' => 'taxonomy_term',
+      'uri' => 'taxonomy_term/64aad47f-bc52-4559-89cd-81ead06c3f4e',
+      'cause' => FALSE,
+    ),
+    'field_cluster_prefix' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'GBV',
+        ),
+      ),
+    ),
+    'format' => 'plain_text',
+    'name' => 'Gender Based Violence',
+    'name_original' => 'Gender Based Violence',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Gender Based Violence',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Gender Based Violence',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Violence basée sur le Sexe',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Violencia basada en el Género',
+        ),
+      ),
+    ),
+    'parent' => array(
+      0 => '2cbc351b-b3d1-6724-6d02-c1419d6594b1',
+    ),
+    'rdf_mapping' => array(
+      'rdftype' => array(
+        0 => 'skos:Concept',
+      ),
+      'name' => array(
+        'predicates' => array(
+          0 => 'rdfs:label',
+          1 => 'skos:prefLabel',
+        ),
+      ),
+      'description' => array(
+        'predicates' => array(
+          0 => 'skos:definition',
+        ),
+      ),
+      'vid' => array(
+        'predicates' => array(
+          0 => 'skos:inScheme',
+        ),
+        'type' => 'rel',
+      ),
+      'parent' => array(
+        'predicates' => array(
+          0 => 'skos:broader',
+        ),
+        'type' => 'rel',
+      ),
+    ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+      ),
+    ),
+    'uuid' => '64aad47f-bc52-4559-89cd-81ead06c3f4e',
+    'vocabulary_machine_name' => 'clusters',
+    'weight' => '0',
+  );
+  $entities['clusters'][] = (object) array(
+    '__metadata' => array(
+      'type' => 'taxonomy_term',
+      'uri' => 'taxonomy_term/a6e1507f-8f8a-4511-9517-7c00a9d8823a',
+      'cause' => FALSE,
+    ),
+    'field_cluster_prefix' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'HLP',
+        ),
+      ),
+    ),
+    'format' => 'plain_text',
+    'name' => 'Housing, Land and Property',
+    'name_original' => 'Housing, Land and Property',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Housing, Land and Property',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Housing, Land and Property',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Logement, Terre et Propriété',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Alojamiento, Tierra y Propiedad',
+        ),
+      ),
+    ),
+    'parent' => array(
+      0 => '2cbc351b-b3d1-6724-6d02-c1419d6594b1',
+    ),
+    'rdf_mapping' => array(
+      'rdftype' => array(
+        0 => 'skos:Concept',
+      ),
+      'name' => array(
+        'predicates' => array(
+          0 => 'rdfs:label',
+          1 => 'skos:prefLabel',
+        ),
+      ),
+      'description' => array(
+        'predicates' => array(
+          0 => 'skos:definition',
+        ),
+      ),
+      'vid' => array(
+        'predicates' => array(
+          0 => 'skos:inScheme',
+        ),
+        'type' => 'rel',
+      ),
+      'parent' => array(
+        'predicates' => array(
+          0 => 'skos:broader',
+        ),
+        'type' => 'rel',
+      ),
+    ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+      ),
+    ),
+    'uuid' => 'a6e1507f-8f8a-4511-9517-7c00a9d8823a',
+    'vocabulary_machine_name' => 'clusters',
+    'weight' => '0',
+  );
+  $entities['clusters'][] = (object) array(
+    '__metadata' => array(
+      'type' => 'taxonomy_term',
+      'uri' => 'taxonomy_term/e12df655-30d3-40f8-9aec-9830af6e43fa',
+      'cause' => FALSE,
+    ),
+    'field_cluster_prefix' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'MA',
+        ),
+      ),
+    ),
+    'format' => 'plain_text',
+    'name' => 'Mine Action',
+    'name_original' => 'Mine Action',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Mine Action',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Mine Action',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Action contre les Mines',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Acción contra las minas',
+        ),
+      ),
+    ),
+    'parent' => array(
+      0 => '2cbc351b-b3d1-6724-6d02-c1419d6594b1',
+    ),
+    'rdf_mapping' => array(
+      'rdftype' => array(
+        0 => 'skos:Concept',
+      ),
+      'name' => array(
+        'predicates' => array(
+          0 => 'rdfs:label',
+          1 => 'skos:prefLabel',
+        ),
+      ),
+      'description' => array(
+        'predicates' => array(
+          0 => 'skos:definition',
+        ),
+      ),
+      'vid' => array(
+        'predicates' => array(
+          0 => 'skos:inScheme',
+        ),
+        'type' => 'rel',
+      ),
+      'parent' => array(
+        'predicates' => array(
+          0 => 'skos:broader',
+        ),
+        'type' => 'rel',
+      ),
+    ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+      ),
+    ),
+    'uuid' => 'e12df655-30d3-40f8-9aec-9830af6e43fa',
+    'vocabulary_machine_name' => 'clusters',
+    'weight' => '0',
+  );
+  $entities['clusters'][] = (object) array(
+    '__metadata' => array(
+      'type' => 'taxonomy_term',
       'uri' => 'taxonomy_term/d5195e8c-e724-af64-35a4-413a412e04f7',
       'cause' => FALSE,
     ),
